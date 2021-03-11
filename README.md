@@ -26,3 +26,9 @@
 |:-:|:-:|:-:|:-:|
 |[C++ London](https://www.meetup.com/CppLondon/)|Monthly|2:00 PM EST|7:00 PM GMT|
 |[C++ San Diego](https://www.meetup.com/San-Diego-CPP)|Monthly|8:00 PM EST|5:00 PM PST|
+
+## Smalltalks
+
+|Name|Frequency|EST|Local Time|
+|:-:|:-:|:-:|:-:|
+|[California Smalltalkers](https://www.meetup.com/california-smalltalkers/)|Monthly|2nd Wed 9:00 PM EST| 6:00 PM PST|
