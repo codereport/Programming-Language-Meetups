@@ -26,6 +26,8 @@
 |:-:|:-:|:-:|:-:|
 |[C++ London](https://www.meetup.com/CppLondon/)|Monthly|2:00 PM EST|7:00 PM GMT|
 |[C++ San Diego](https://www.meetup.com/San-Diego-CPP)|Monthly|8:00 PM EST|5:00 PM PST|
+|[North Denver Metro C++](https://www.meetup.com/North-Denver-Metro-C-Meetup/)|Monthly|8:00 PM EST|5:00 PM PST|
+|[Core C++](https://www.meetup.com/North-Denver-Metro-C-Meetup/)|Monthly|3:00 PM EST|12:00 PM PST|
 
 ## Smalltalks
 
